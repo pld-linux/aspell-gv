@@ -1,5 +1,5 @@
 Summary:	Manx Gaelic dictionary for aspell
-Summary(pl):	S這wnik manx dla aspella
+Summary(pl):	S這wnik ma雟ki dla aspella
 Name:		aspell-gv
 Version:	0.50
 %define	subv	0
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Manx Gaelic dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S這wnik manx (lista s堯w) dla aspella.
+S這wnik ma雟ki (lista s堯w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
