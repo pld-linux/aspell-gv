@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Manx Gaelic dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik manx (lista s³ów) dla aspella.
+S³ownik (lista s³ów) manx dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
