@@ -1,5 +1,5 @@
 Summary:	Manx Gaelic dictionary for aspell
-Summary(pl.UTF-8):   Słownik manx dla aspella
+Summary(pl.UTF-8):	Słownik manx dla aspella
 Name:		aspell-gv
 Version:	0.50
 %define	subv	0
