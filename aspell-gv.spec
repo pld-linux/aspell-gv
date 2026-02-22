@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik manx dla aspella
 Name:		aspell-gv
 Version:	0.50
 %define	subv	0
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/gv/%{name}-%{version}-%{subv}.tar.bz2
